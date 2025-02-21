@@ -20,8 +20,7 @@ public class StreamApiExample {
 		ls.stream()
 		.filter(n->n>5)
 		.forEach(n->System.out.println(n));
-		
-		List<String>
+	
 	}
 
 }
